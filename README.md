@@ -1,4 +1,4 @@
-# <h1 align="center">![Economigos]</h1>
+# <h1 align="center">Economigos</h1>
 
 Economigos é uma aplicação Mobile/Web que traz a facilidade, organização e melhora financeira que você precisa!
 
