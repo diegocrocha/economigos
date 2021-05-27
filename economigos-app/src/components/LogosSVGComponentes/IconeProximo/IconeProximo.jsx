@@ -1,0 +1,24 @@
+import React from 'react'
+// import * as S from './style';
+
+export default function IconeProximo() {
+    return (
+        <svg width="35" height="35" viewBox="0 0 35 35" xmlns="http://www.w3.org/2000/svg">
+            <g filter="url(#filter0_d)">
+                <path d="M21.4994 39C31.1635 39 39 31.1658 39 21.5C39 11.8342 31.1635 4 21.4994 4C11.8347 4 4 11.8342 4 21.5C4 31.1658 11.8347 39 21.4994 39Z" fill="#E4E4E4" />
+            </g>
+            <path d="M25.8528 26.75V23.0597H15.3972H12.75V21.5V19.9403H15.3972H25.8528V16.25L30.25 21.5L25.8528 26.75Z" fill="#61B4A0" />
+            <defs>
+                <filter id="filter0_d" x="0" y="0" width="43" height="43" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+                    <feOffset />
+                    <feGaussianBlur stdDeviation="2" />
+                    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+                    <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+                </filter>
+            </defs>
+        </svg>
+    )
+}

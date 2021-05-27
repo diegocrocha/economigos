@@ -1,0 +1,4 @@
+00EXTRATO21-05-2021 22:24:4601
+03Renda0000999,99Esse dia eu fiquei rico                           2021-01-04 00:00:00Investimento             C6BANK         
+02Gasto0003000,99Netflix                                           2021-02-04 00:00:00Entretenimento           C6BANK         
+010000000002
