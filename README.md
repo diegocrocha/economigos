@@ -1,6 +1,6 @@
 # <h1 align="center">![Economigos]</h1>
 
-GoFinances é uma aplicação Mobile/Web com o objetivo de controlar suas finanças (eu preciso muito disso), permitindo que você cadastre entradas, saídas e categorize-as de uma forma organizada!
+Economigos é uma aplicação Mobile/Web que traz a facilidade, organização e melhora financeira que você precisa!
 
 ## 🚀 Tecnologias utilizadas
 
